@@ -1,0 +1,1 @@
+/usr/bin/clang     CMakeFiles/mumsh_memory_check.dir/main.c.o  -o mumsh_memory_check -rdynamic 

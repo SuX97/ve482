@@ -1,0 +1,1 @@
+/usr/bin/clang  -std=c11 -O2 -Wall -Wextra -Werror -pedantic -Wno-unused-result   CMakeFiles/mumsh.dir/main.c.o  -o mumsh -rdynamic 

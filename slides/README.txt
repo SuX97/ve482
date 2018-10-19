@@ -1,0 +1,1 @@
+This is the new lines adding to three files.

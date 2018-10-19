@@ -1,0 +1,1 @@
+/usr/bin/clang     CMakeFiles/mumsh.dir/main.c.o  -o mumsh -rdynamic 
