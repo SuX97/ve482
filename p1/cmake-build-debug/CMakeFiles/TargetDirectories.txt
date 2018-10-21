@@ -1,4 +1,0 @@
-/mnt/c/Users/Su/Documents/ve482/p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Su/Documents/ve482/p1/cmake-build-debug/CMakeFiles/mumsh_memory_check.dir
-/mnt/c/Users/Su/Documents/ve482/p1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Su/Documents/ve482/p1/cmake-build-debug/CMakeFiles/mumsh.dir

@@ -1,1 +1,0 @@
-/usr/bin/clang  -std=c11 -O2 -Wall -Wextra -Werror -pedantic -Wno-unused-result   CMakeFiles/mumsh_memory_check.dir/main.c.o  -o mumsh_memory_check -rdynamic 
